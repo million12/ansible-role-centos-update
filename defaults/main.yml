@@ -1,0 +1,31 @@
+---
+# defaults file for centos-update
+
+timezone: UTC
+text_editor: vim
+
+cron_email_address: "{{ email_address }}"
+
+sysadmin_tools:
+  - mc
+  - cronie
+  - git
+  - htop
+  - atop
+  - iftop
+  - iproute
+  - ntp
+  - fping
+  - xfsprogs
+  - mariadb
+  - nmap
+  - man
+  - ncdu
+  - python-pip
+  - rsync
+  - sudo
+  - tmux
+  - traceroute
+  - vim
+  - which
+  - yum-plugin-keys
