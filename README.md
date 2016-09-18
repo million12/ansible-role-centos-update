@@ -2,7 +2,7 @@
 [![GitHub Open Issues](https://img.shields.io/github/issues/million12/ansible-role-centos-update.svg)](https://github.com/million12/ansible-role-centos-update/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/million12/ansible-role-centos-update.svg)](https://github.com/million12/ansible-role-centos-update)
 [![GitHub Forks](https://img.shields.io/github/forks/million12/ansible-role-centos-update.svg)](https://github.com/million12/ansible-role-centos-update)
-[![GitHub release](https://img.shields.io/github/release/million12/ansible-role-centos-update.svg?maxAge=2592000)](https://github.com/million12/ansible-role-centos-update)
+[![GitHub release](https://img.shields.io/github/release/million12/ansible-role-centos-update.svg)](https://github.com/million12/ansible-role-centos-update)
 [![license](https://img.shields.io/github/license/million12/ansible-role-centos-update.svg?maxAge=2592000)](https://github.com/million12/ansible-role-centos-update/blob/master/LICENSE)
 
 ---
